@@ -64,7 +64,7 @@ Try {
 	##*===============================================
 	## Variables: Application
 	[string]$appVendor = 'Adobe'
-	[string]$appName = 'Premiere Pro'
+	[string]$appName = 'Photoshop'
 	[string]$appVersion = 'CC 2020'
 	[string]$appArch = 'x64'
 	[string]$appLang = 'EN'
